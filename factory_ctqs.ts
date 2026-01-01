@@ -1,0 +1,1 @@
+const service_ctqs = <T>(args: T): T => { return args; };
